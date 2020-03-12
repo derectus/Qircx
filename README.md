@@ -1,0 +1,2 @@
+# Qircx
+Basic irc implementation
